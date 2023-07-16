@@ -19,7 +19,7 @@ std::vector <int> memes_rating;
 using namespace std;
 
 
-const std::string    BOT_TOKEN = "MTExNzMxMDIxOTA3MzA5MzY2Mg.Ga3uty.dL4MIIld2lmKmzi2V0p9EocUMJWE4JClt3FYtM";
+const std::string    BOT_TOKEN = "token";
 int janken_rounds = INT16_MAX;
 int janken_attack;
 int bot_won_janken, player_won_janken;
